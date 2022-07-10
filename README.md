@@ -1,2 +1,2 @@
 # design-patterns
-Patrones de diseño de creción, estructura y comportamiento
+Patrones de diseño de creación, estructura y comportamiento
